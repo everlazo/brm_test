@@ -1,0 +1,10 @@
+{
+    "db": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "brm_sistema",
+      "connectTimeout": 60000
+    }
+}
